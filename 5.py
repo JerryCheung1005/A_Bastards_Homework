@@ -2,6 +2,7 @@ from functools import reduce
 from operator import mul
 
 list1 = []
+
 while True:
     num = int(input("Enter a number: "))
     list1.append(num)

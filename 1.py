@@ -1,5 +1,6 @@
 """Enter numbers until execute 'No' demand."""
 list1 = []
+
 while True:
     num = int(input("Enter a number: "))
     list1.append(num)
