@@ -1,4 +1,4 @@
-list1 = []
+'''list1 = []
 
 while True:
     num = int(input("Enter a number: "))
@@ -7,4 +7,16 @@ while True:
     if not con.lower() in ("yes"):
         break
 
-print(sorted(list1, reverse=True))
+print(sorted(list1, reverse=True))'''
+
+def fuckone():
+    print('fuck u mom')
+
+def fucktwo():
+    print("jb")
+
+def main():
+    fuckone()
+    fucktwo()
+
+main()
